@@ -1,0 +1,50 @@
+.menuToggle {
+    width: 60px;
+    height: 60px;
+    margin-left: 35px;
+    background-image: url(imgs/hamburger.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+
+.menu{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 200px;
+    display: none;
+    position: fixed;
+    left: -50px;
+    top: 60px;
+  }
+
+.menu li {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    list-style: none;
+    line-height: 20px;
+    text-align: center;
+}
+
+
+.background {
+	background-color:lightgray; 
+}
+
+#home {
+    background-color: lightgray;
+}
+
+#pink {
+    background-color: lightpink;
+
+}
+
+#green {
+    background-color: lightseagreen;
+
+}
+#blue{
+    background-color: lightskyblue;
+
+}
